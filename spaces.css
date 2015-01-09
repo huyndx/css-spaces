@@ -1,0 +1,34 @@
+.sp-l1{
+	 padding-left: 1px;
+}
+.sp-l2{
+	 padding-left: 2px;
+}
+.sp-l5{
+	 padding-left: 5px;
+}
+.sp-l10{
+	 padding-left: 10px;
+}
+.sp-l20{
+	 padding-left: 20px;
+}
+.sp-r1{
+	 padding-right: 1px;
+}
+.sp-r2{
+	 padding-right: 2px;
+}
+.sp-l5{
+	 padding-right: 5px;
+}
+.sp-r10{
+	 padding-right: 10px;
+}
+.sp-r20{
+	 padding-right: 20px;
+}
+.sp-c5{
+    padding-left: 5px;
+    padding-right: 5px;
+}

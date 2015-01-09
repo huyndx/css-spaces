@@ -1,0 +1,21 @@
+{
+    "name": "huynguyen/css-spaces",
+    "authors": [
+        {
+            "name": "Huy Nguyen",
+            "email": "huynguyen159@outlook.com"
+        }
+    ],
+    "require": {},
+    "extra":{
+    	"ighnore":[
+    	"*/.*",
+    	"test",
+    	"doc",
+    	"gh-page",
+    	"readme.md",
+    	"composer.json",
+    	"bower.json"
+    	]
+    }
+}
