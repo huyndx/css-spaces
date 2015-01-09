@@ -8,8 +8,9 @@
     ],
     "require": {},
     "extra":{
-    	"ighnore":[
+    	"ignore":[
     	"*/.*",
+        "vendor",
     	"test",
     	"doc",
     	"gh-page",
