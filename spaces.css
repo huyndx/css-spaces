@@ -13,6 +13,9 @@
 .sp-l20{
 	 padding-left: 20px;
 }
+.sp-l60{
+    padding-left: 60px;
+}
 .sp-r1{
 	 padding-right: 1px;
 }
@@ -83,5 +86,8 @@
 }
 .link{
     cursor: pointer;
+}
+.float_right{
+    float: right;
 }
 
